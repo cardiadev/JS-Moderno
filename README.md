@@ -1,5 +1,5 @@
 # JS Moderno
-[![GitHub](https://img.shields.io/github/license/cjdiaz18/JS-Moderno?color=blue&label=LICENSE&style=for-the-badge)](./LICENSE)
+[![GitHub](https://img.shields.io/github/license/cjdiaz18/JS-Moderno?color=blue&label=LICENSE&style=for-the-badge)](./LICENSE.md)
 [![Twitter Follow](https://img.shields.io/twitter/follow/cjdiaz?logo=twitter&style=for-the-badge)](https://twitter.com/cjdiaz)
 
 Notas y practicas de curso de JavaScript Moderno
@@ -20,4 +20,4 @@ Lea nuestra [guia de contribucion](#guiadecontribucion) para aprender sobre nues
 
 ### Licencia
 
-Se adopto la [licencia MIT](./LICENSE).
+Se adopto la [licencia MIT](./LICENSE.md).
