@@ -1,6 +1,6 @@
 # JS Moderno
-![GitHub](https://img.shields.io/github/license/cjdiaz18/JS-Moderno?color=blue&label=LICENSE&style=for-the-badge)
-![Twitter Follow](https://img.shields.io/twitter/follow/cjdiaz?label=%20%40cjdiaz&style=for-the-badge&logo=twitter)
+[![GitHub](https://img.shields.io/github/license/cjdiaz18/JS-Moderno?color=blue&label=LICENSE&style=for-the-badge)](./LICENSE)
+[![Twitter Follow](https://img.shields.io/twitter/follow/cjdiaz?logo=twitter&style=for-the-badge)](https://twitter.com/cjdiaz)
 
 Notas y practicas de curso de JavaScript Moderno
 
