@@ -2,11 +2,13 @@
 [![GitHub](https://img.shields.io/github/license/cjdiaz18/JS-Moderno?color=blue&label=LICENSE&style=for-the-badge)](./LICENSE.md)
 [![Twitter Follow](https://img.shields.io/twitter/follow/cjdiaz?logo=twitter&style=for-the-badge)](https://twitter.com/cjdiaz)
 
-Notas y practicas de curso de JavaScript Moderno
+![JS Moderno](/cover_JS-Moderno_github.jpg "JS Moderno - Carlos Diaz")
 
-* **Declarativa:** Contenido en el cual la intencion de esto es que otras personas puedan hacer uso de los apuntes y poder seguir creciendo esta comunidad de JavaScript. Hago esto con la finalidad de acortar la brecha para los que estan aprendiendo de recien este lenguaje de programacion, ya que para mi fue un poco duro el aprendisaje, sin embargo no quiere decir que tenga que ser así para los demas. A codear 😀.
+_El contenido de esto es con la intencion de que otras personas puedan hacer uso de los apuntes y poder seguir creciendo esta comunidad de JavaScript. Se hace esto con la finalidad de acortar la brecha para los que estan aprendiendo de recien este lenguaje de programacion, ya que para mi fue un poco duro el aprendisaje, sin embargo no quiere decir que tenga que ser así para los demas._
 
-## Documentacion
+Let's code ! 🤙🏻
+
+## Documentación
 
 Se puede encontrar una documentación mas completa en [este link](#).
 
@@ -21,3 +23,13 @@ Lea nuestra [guia de contribucion](#guiadecontribucion) para aprender sobre nues
 ### Licencia
 
 Se adopto la [licencia MIT](./LICENSE.md).
+
+## Muchas Gracias 👏🏻
+
+* **Juan de la Torre** [@JuanDevWP](https://twitter.com/JuanDevWP) por instruirme en esta aventura de JS.  📢
+* Todos los que se toman el tiempo de revisar este proyecto. 🍺
+* Todos los contribuidores. ✌🏻
+
+
+---
+Hecho con &#x2661; por **Carlos Diaz** | [@cjdiaz18](https://github.com/cjdiaz18)

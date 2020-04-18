@@ -14,3 +14,12 @@ resultado = numero1 * numero2;
 resultado = Math.PI;
 
 console.log(resultado);
+
+
+<script>
+  if(age > 19){
+    alert(”Algo aqui”);
+} else{
+    alert(”Algo Aqui”);
+}
+</script>
